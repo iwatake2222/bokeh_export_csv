@@ -1,0 +1,5 @@
+beautifulsoup4
+base64
+zlib
+numpy
+pandas
